@@ -1,0 +1,1 @@
+﻿Run C:\Users\Vassago\AppData\Local\Yandex\YandexBrowser\Application\browser.exe "https://youtube.com"

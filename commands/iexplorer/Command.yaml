@@ -1,0 +1,13 @@
+list:
+- command:
+    action: ahk
+    exe_path: ahk/OpenBrowser.exe
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой браузер
+  - открой окно браузера
+  - запусти браузер
